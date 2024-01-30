@@ -1,0 +1,17 @@
+.bank {
+    text-align: center;
+}
+
+.title_page {
+    text-align: center;
+    width: 600px;
+    height: 80px;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+.page {
+    text-align: center;
+}
